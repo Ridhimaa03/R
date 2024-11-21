@@ -6,21 +6,13 @@
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
 
   
-  <!--links-->
-  
-    <small align="justify">
-      Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">G1</a> through 
-      <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
-     </small>
-  </p>
+
   <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree BTech CSE at Guru nanak dev engineering College, Nov 2024
   </small>
 </div><br/><br/>
 
 ## About the Project 🥱
 <div align="center">
-
     <p align="justify"> 
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
